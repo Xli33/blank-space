@@ -1,0 +1,33 @@
+{
+  "name": "blank-space",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "a minimal blank",
+  "main": ".js",
+  "module": ".mjs",
+  "types": ".d.ts",
+  "exports": {
+    "import": ".mjs",
+    "require": ".cjs"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "release": "commit-and-tag-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xli33/blank-space.git"
+  },
+  "author": "Xli33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xli33/blank-space/issues"
+  },
+  "homepage": "https://github.com/Xli33/blank-space#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "commit-and-tag-version": "^12.4.1",
+    "husky": "^9.0.11"
+  }
+}
