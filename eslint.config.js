@@ -12,6 +12,12 @@ export default [
       globals: globals.browser
     }
   },
+  {
+    files: ['*.js'],
+    languageOptions: {
+      globals: globals.node
+    }
+  },
   pluginJs.configs.recommended,
   {
     rules: {
