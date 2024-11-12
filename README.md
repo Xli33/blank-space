@@ -1,9 +1,9 @@
 # blank-space
 Nice to meet you，where you been？ I could show you incredible things😏
 
-<img src=src/chrome.png width=45%>
-<img src=src/edge.png width=45%>
-<img src=src/firefox.png width=45%>
+<img src=src/chrome.png width=55%>
+<img src=src/edge.png width=55%>
+<img src=src/firefox.png width=55%>
 
 # 使用要求/Requirements （No translation required maybe
 
