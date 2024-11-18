@@ -19,6 +19,9 @@ Nice to meet you，where you been？ I could show you incredible things😏
 A: oh~ 不符合条件? 骚瑞~ 那看都不太适合看哈 亲^_^
 A: 哈哈Only kiddin' 嘻嘻😏
 ```
+
+### 拒绝滥用 *scoped style* ，下下策罢惹🙄 <br> say "No!" to the abuse of *scoped style*, which be the worst🙄
+
 <br>
 
 > ***随遇而安，material yyds（〃｀ 3′〃）***
