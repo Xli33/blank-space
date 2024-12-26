@@ -16,7 +16,7 @@
     }
   },
   "scripts": {
-    "preinstall": "husky",
+    "prepare": "husky",
     "release": "commit-and-tag-version"
   },
   "repository": {
