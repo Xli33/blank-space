@@ -17,7 +17,11 @@
   },
   "scripts": {
     "prepare": "husky",
-    "release": "commit-and-tag-version"
+    "release": "commit-and-tag-version",
+    "lint": "run-s lint:*",
+    "lint:oxlint": "oxlint . --fix",
+    "lint:eslint": "eslint . --fix --cache",
+    "format": "prettier --write --experimental-cli src/"
   },
   "repository": {
     "type": "git",
@@ -30,12 +34,16 @@
   },
   "homepage": "https://github.com/Xli33/blank-space#readme",
   "devDependencies": {
-    "@commitlint/cli": "^20.1.0",
-    "@commitlint/config-conventional": "^20.0.0",
-    "@eslint/js": "^9.39.1",
-    "commit-and-tag-version": "^12.6.0",
-    "eslint": "^9.39.1",
-    "globals": "^16.5.0",
-    "husky": "^9.1.7"
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "@eslint/js": "^10.0.1",
+    "commit-and-tag-version": "^13.3.0",
+    "eslint": "^10.15.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-oxlint": "^1.95.0",
+    "globals": "^17.14.0",
+    "husky": "^9.1.7",
+    "oxlint": "^1.95.0",
+    "prettier": "^3.10.1"
   }
 }

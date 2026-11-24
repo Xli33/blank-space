@@ -1,10 +1,13 @@
 import globals from 'globals';
 import pluginJs from '@eslint/js';
+import pluginOxlint from 'eslint-plugin-oxlint';
+import skipFormatting from 'eslint-config-prettier/flat';
 
 export default [
   {
     ignores: ['.husky/', 'dist/']
   },
+  pluginJs.configs.recommended,
   {
     files: ['src/**/*.{js,mjs}'],
     languageOptions: {
@@ -18,7 +21,9 @@ export default [
       globals: globals.node
     }
   },
-  pluginJs.configs.recommended,
+
+  ...pluginOxlint.buildFromOxlintConfigFile('.oxlintrc.json'),
+  skipFormatting,
   {
     rules: {
       // '@typescript-eslint/no-unused-vars': ['error', { args: 'none' }],
