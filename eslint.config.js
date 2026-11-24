@@ -35,7 +35,7 @@ export default [
         {
           // vars: 'all',
           // args: 'after-used',
-          caughtErrors: 'none'
+          // caughtErrors: 'none'
           // ignoreRestSiblings: false,
           // reportUsedIgnorePattern: false
         }
