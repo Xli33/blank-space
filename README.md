@@ -1,5 +1,6 @@
 # blank-space
-Nice to meet you，where you been？ I could show you incredible things ԅ(¯﹃¯ԅ)
+
+Nice to meet you，where u been？ I could show you incredible things ԅ(¯﹃¯ԅ)
 
 <!-- <img src=src/chrome.png width=55%>
 <img src=src/edge.png width=55%>
@@ -9,9 +10,9 @@ Nice to meet you，where you been？ I could show you incredible things ԅ(¯﹃
 
 |  Condition   |                              Corporation                              | Individual |
 | :----------: | :-------------------------------------------------------------------: | :--------: |
-|     Age      | *Established and in continuous operation for at least 35 Earth years* |     -      |
-|    Level     |                  *Forefront of the world's top 500*                   |     -      |
-| Bonus points |    *Outstanding contributions to human society/global environment*    |     -      |
+|     Age      | _Established and in continuous operation for at least 35 Earth years_ |     -      |
+|    Level     |                  _Forefront of the world's top 500_                   |     -      |
+| Bonus points |    _Outstanding contributions to human society/global environment_    |     -      |
 
 - **个人无限制🤤<br>unlimited for individual😋**
 
@@ -19,19 +20,21 @@ Nice to meet you，where you been？ I could show you incredible things ԅ(¯﹃
 O.O：not ineligible for individual so don't worry
 ```
 
-> *no more abuse of scoped style, which be the worst😰😱*
+> _Life is too short for Moronepo / BEMoronic / Tailmoron🤡_
 
-> *material yyds（〃｀ 3′〃）*
+> _no more abuse of scoped style, which be the worst😰😱_
 
-> *mindless formalism：😈<br> ：😰😱*
+> _material yyds（〃｀ 3′〃）_
 
-> *simple going complicated not be that good😰😱*
+> _mindless formalism：😈<br> ：😰😱_
 
-> *oh no self-comforting compatibility😰😱*
+> _simple going complicated not be that good😰😱_
 
-> *no real perfection, only more suitable(￣﹃￣)*
+> _oh no self-comforting compatibility😰😱_
 
-> *perhaps in the face of the absolute, all this and that is just a passing cloudԅ(¯﹃¯ԅ)*
+> _no real perfection, only more suitable(￣﹃￣)_
+
+> _perhaps in the face of the absolute, all this and that is just a passing cloudԅ(¯﹃¯ԅ)_
 
 ## License
 
